@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6387708f104b767538995e5ce059d075",
+    "revision": "961dda45950496514116a151b00d48aa",
     "url": "/gotham-social/index.html"
   },
   {
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gotham-social/static/css/5.eb20a7dc.chunk.css"
   },
   {
-    "revision": "9bfdd32387476685c047",
+    "revision": "825d5844c1749359b6fe",
     "url": "/gotham-social/static/css/main.bb450251.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gotham-social/static/js/5.6dea7321.chunk.js"
   },
   {
-    "revision": "9bfdd32387476685c047",
-    "url": "/gotham-social/static/js/main.128dc88e.chunk.js"
+    "revision": "825d5844c1749359b6fe",
+    "url": "/gotham-social/static/js/main.31a71a7d.chunk.js"
   },
   {
     "revision": "24c9fd9170dc58da6568",

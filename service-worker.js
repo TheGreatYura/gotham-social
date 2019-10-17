@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gotham-social/precache-manifest.9eb8d71cb01ade0eaad5e8abf56d91c9.js"
+  "/gotham-social/precache-manifest.006f8a3310eb3fddd76cc3d53df45dc0.js"
 );
 
 self.addEventListener('message', (event) => {
