@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/gotham-social/static/css/main.bb450251.chunk.css",
+    "main.js": "/gotham-social/static/js/main.128dc88e.chunk.js",
+    "main.js.map": "/gotham-social/static/js/main.128dc88e.chunk.js.map",
+    "runtime-main.js": "/gotham-social/static/js/runtime-main.b08f700f.js",
+    "runtime-main.js.map": "/gotham-social/static/js/runtime-main.b08f700f.js.map",
+    "static/js/2.815e279d.chunk.js": "/gotham-social/static/js/2.815e279d.chunk.js",
+    "static/js/2.815e279d.chunk.js.map": "/gotham-social/static/js/2.815e279d.chunk.js.map",
+    "static/css/3.a4220a73.chunk.css": "/gotham-social/static/css/3.a4220a73.chunk.css",
+    "static/js/3.46e5a162.chunk.js": "/gotham-social/static/js/3.46e5a162.chunk.js",
+    "static/js/3.46e5a162.chunk.js.map": "/gotham-social/static/js/3.46e5a162.chunk.js.map",
+    "static/css/4.8eaecea9.chunk.css": "/gotham-social/static/css/4.8eaecea9.chunk.css",
+    "static/js/4.0c9218e8.chunk.js": "/gotham-social/static/js/4.0c9218e8.chunk.js",
+    "static/js/4.0c9218e8.chunk.js.map": "/gotham-social/static/js/4.0c9218e8.chunk.js.map",
+    "static/css/5.eb20a7dc.chunk.css": "/gotham-social/static/css/5.eb20a7dc.chunk.css",
+    "static/js/5.6dea7321.chunk.js": "/gotham-social/static/js/5.6dea7321.chunk.js",
+    "static/js/5.6dea7321.chunk.js.map": "/gotham-social/static/js/5.6dea7321.chunk.js.map",
+    "index.html": "/gotham-social/index.html",
+    "precache-manifest.9eb8d71cb01ade0eaad5e8abf56d91c9.js": "/gotham-social/precache-manifest.9eb8d71cb01ade0eaad5e8abf56d91c9.js",
+    "service-worker.js": "/gotham-social/service-worker.js",
+    "static/css/3.a4220a73.chunk.css.map": "/gotham-social/static/css/3.a4220a73.chunk.css.map",
+    "static/css/4.8eaecea9.chunk.css.map": "/gotham-social/static/css/4.8eaecea9.chunk.css.map",
+    "static/css/5.eb20a7dc.chunk.css.map": "/gotham-social/static/css/5.eb20a7dc.chunk.css.map",
+    "static/css/main.bb450251.chunk.css.map": "/gotham-social/static/css/main.bb450251.chunk.css.map",
+    "static/media/Eclipse.svg": "/gotham-social/static/media/Eclipse.6e733990.svg",
+    "static/media/icon.jpg": "/gotham-social/static/media/icon.1a932483.jpg",
+    "static/media/logo.png": "/gotham-social/static/media/logo.02322427.png"
+  }
+}

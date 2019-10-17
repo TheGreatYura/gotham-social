@@ -1,0 +1,1 @@
+{"version":3,"sources":["Pagination.module.css","UsersPage.module.css"],"names":[],"mappings":"AAAA,gCACE,eACF,CCFA,4BACE,UACF","file":"4.8eaecea9.chunk.css","sourcesContent":[".selectedPage {\r\n  font-weight: bold;\r\n}",".userPhoto {\r\n  width: 80px;\r\n}"]}
